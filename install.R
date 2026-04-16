@@ -1,0 +1,6 @@
+install.packages("readxl")
+install.packages("writexl")
+install.packages("openxlsx2")
+install.packages("tidyverse")
+install.packages("datasets")
+install.packages("IRdisplay")
